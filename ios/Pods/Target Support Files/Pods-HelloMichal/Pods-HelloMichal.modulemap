@@ -1,0 +1,6 @@
+module Pods_HelloMichal {
+  umbrella header "Pods-HelloMichal-umbrella.h"
+
+  export *
+  module * { export * }
+}

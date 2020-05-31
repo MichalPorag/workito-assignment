@@ -1,0 +1,45 @@
+[{
+        "id": "1",
+        "name": {
+            "first": "Donald",
+            "middle": "",
+            "last": "Trump"
+        },
+        "image": "../media/trump.jpg",
+        "phone": "0547528873",
+        "email": "trumpKikAss@gmail.com",
+        "address": {
+            "city": "Washington",
+            "street": "Pasilvania Boulevard",
+            "number": 1600
+        },
+        "startDate": {
+            "year": 2017,
+            "month": 1,
+            "day": 17
+        },
+        "position": "household"
+    },
+    {
+        "id": "2",
+        "name": {
+            "first": "Sara",
+            "middle": "",
+            "last": "Netanyahu"
+        },
+        "image": "../media/Sara.jpg",
+        "phone": "0547528873",
+        "email": "queenSara@gmail.com",
+        "address": {
+            "city": "Washington",
+            "street": "Pasilvania Boulevard",
+            "number": 1600
+        },
+        "startDate": {
+            "year": 2009,
+            "month": 3,
+            "day": 31
+        },
+        "position": "household"
+    }
+]

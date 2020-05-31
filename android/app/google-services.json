@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456596924460",
+    "firebase_url": "https://workitoassignment.firebaseio.com",
+    "project_id": "workitoassignment",
+    "storage_bucket": "workitoassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456596924460:android:db53385725c79508b04989",
+        "android_client_info": {
+          "package_name": "com.hellomichal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456596924460-2tgppl60kml1520lgnb93o3iebkakoi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu4af_0iwtgJkgh2JqESrfk8XKDcM6UrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456596924460-2tgppl60kml1520lgnb93o3iebkakoi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
